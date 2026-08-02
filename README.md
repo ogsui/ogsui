@@ -38,6 +38,7 @@ ESP32-based wearable classifying mental states (relaxed, stressed, procrastinate
 | [Tetris](https://github.com/ogsui/Tetris) | Built with Raylib | C++ |
 | [AI_parking](https://github.com/ogsui/AI_parking) | AI-based toll and parking model | C++ |
 | [python-pandas](https://github.com/ogsui/python-pandas) | Pandas fundamentals, hands-on notebooks | Jupyter Notebook |
+|& others| | |
 
 ---
 
