@@ -26,7 +26,7 @@ Building toward ML systems and quantitative research roles, where mathematical r
 
 `Python` · ESP32 · FastAPI · WebSocket
 
-ESP32-based wearable classifying mental states (relaxed, stressed, procrastinated) using a hybrid soft-voting ensemble of seven ML models across 16 engineered features. ~93% cross-validated accuracy on a custom 10,500-window dataset. Full pipeline: signal processing, dataset construction, model ensembling, FastAPI backend, WebSocket dashboard, ESP32 firmware.
+ESP32-based wearable classifying mental states (relaxed, stressed, procrastinated) using a hybrid soft-voting ensemble of seven ML models across 16 engineered features. ~93% cross-validated accuracy on a custom 15,000-window dataset. Full pipeline: signal processing, dataset construction, model ensembling, FastAPI backend, WebSocket dashboard, ESP32 firmware.
 
 ---
 
